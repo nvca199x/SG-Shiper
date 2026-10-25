@@ -1,0 +1,6 @@
+{
+  "name": "Super Shipper 3D - Giao Hàng Thành Phố Mở",
+  "description": "Game 3D lái xe shipper giao hàng thế giới mở rộng lớn, nhận đơn, né chướng ngại vật, kiếm tiền và nâng cấp xe giao hàng siêu tốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
